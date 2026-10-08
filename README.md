@@ -29,3 +29,15 @@
 
 ### Experiment II (Low Power nodes)
  - experiment_II_lpn.csv
+
+## Authors
+
+* **Lars Almon** ([email](mailto:lalmon@seemoo.tu-darmstadt.de), [web](https://seemoo.de/lalmon))
+* **Flor Álvarez** ([email](mailto:falvarez@seemoo.tu-darmstadt.de), [web](https://www.seemoo.tu-darmstadt.de/team/falvarez/)
+* **Laurenz Kamp** 
+* **Matthias Hollick** 
+
+## License
+
+The Bluetooth Mesh dataset is licensed under the **GNU General Public License v3.0**.
+The license is found in the 'LICENSE' file.
