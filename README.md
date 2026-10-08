@@ -20,7 +20,7 @@
 
 **This repository contains the dataset of the Bluetooth Mesh experiments from the paper:**
 
-* Lars Almon, Flor Álvarez, Laurenz Kamp, and Matthias Hollick. **[The King is Dead Long Live the King! Towards Systematic Performance Evaluation of Heterogeneous Bluetooth Mesh Networks in Real World Environments](https://doi.org/10.1109/LCN44214.2019.8990765)**.
+* Lars Almon, Flor Álvarez, Laurenz Kamp, and Matthias Hollick. **[The King is Dead Long Live the King! Towards Systematic Performance Evaluation of Heterogeneous Bluetooth Mesh Networks in Real World Environments](https://doi.org/10.1109/LCN44214.2019.8990765)**. In the proceedings of the 44th Conference on Local Computer Networks (LCN), Osnabrueck, Germany, 2019, pp. 389-397, https://doi.org/10.1109/LCN44214.2019.8990765
 
 ## Data
 
